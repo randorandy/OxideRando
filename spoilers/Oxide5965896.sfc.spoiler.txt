@@ -1,0 +1,81 @@
+
+ Spoiler 
+
+ Spoiler 
+
+ Spoiler 
+
+ Spoiler 
+
+Starting randomization attempt: 2
+Seed: 5965896
+
+
+ - begin -
+sphere:
+    get Super Missile from Grapple Beam
+sphere:
+    get Morph Ball from Morph Ball
+sphere:
+    get Space Jump from Bombs
+sphere:
+    get Bombs from Springball
+    get Super Missile from Missile
+sphere:
+    get Super Missile from Alpha Super Missile
+    get Plasma Beam from Charge Beam
+    get Xray from Speed Room Energy
+    get Reserve Tank from Speed Booster
+    get Energy Tank from WS Entry Energy
+    get Power Bomb from Tourian Entry Reserve
+    get Energy Tank from Baby Skip Super
+    get Power Bomb from Longest Horizontal Energy
+    get Wave Beam from GT Reserve Energy
+    get Super Missile from GT Reserve Tank
+    get Reserve Tank from GT Super
+    get Speed Booster from GT Energy
+    get Missile from Screw Attack
+    get Power Bomb from Spazer Energy
+    get Super Missile from Spazer
+    get Energy Tank from Kraid Floor Super
+    get Power Bomb from Varia Suit
+    get Reserve Tank from X-ray Scope
+    get Energy Tank from Precious Energy
+    get Varia Suit from Precious Super
+sphere:
+    get Energy Tank from WS Entry Speed Super
+    get Super Missile from HiJump
+    get Energy Tank from Wave Super
+    get Super Missile from Wave Beam
+    get Super Missile from GT Alpha Power Bomb
+    get Grapple Beam from Waterway Power Bomb
+    get Super Missile from Brinstar Entry Speed Super
+    get Power Bomb from LN Elevator Energy
+    get Reserve Tank from LN Cage Power Bomb
+    get Ice Beam from LN Hidden Floor Power Bomb
+    get Spazer from LN Ceiling Speedway Power Bomb
+    get Super Missile from Ridley Energy Tank
+    get Energy Tank from LN Pirate Wall Power Bomb
+    get Charge Beam from LN Reserve Tank
+    get Energy Tank from Kraid Power Bomb
+    get Energy Tank from Space Jump
+    get Super Missile from Triple Super Ceiling
+    get Screw Attack from Triple Super Floor
+    get Super Missile from Triple Super Right
+    get Springball from Triple Super Mid
+    get Energy Tank from Triple Super Left
+sphere:
+    get Super Missile from WS Reserve Super
+    get Super Missile from WS Reserve
+    get Gravity Suit from Ice Beam
+    get Super Missile from WS Conveyor Energy
+    get Energy Tank from WS Atomic Energy
+    get HiJump from Gravity Suit
+    get Energy Tank from Grapple Ceiling Energy
+    get Super Missile from Crater Energy Tank
+sphere:
+    get Power Bomb from Croc Super Missile
+    get Energy Tank from Plasma Beam
+    get Super Missile from Escape Right Super
+    get Super Missile from Escape Middle Super
+    get Power Bomb from Escape Left Super
